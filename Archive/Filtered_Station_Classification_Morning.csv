@@ -1,0 +1,367 @@
+Station,Start Count,End Count,Classification
+"Waterloo Station 1, Waterloo",1504,139,Starting Point
+"Waterloo Station 2, Waterloo",716,11,Starting Point
+"Wormwood Street, Liverpool Street",581,396,Starting Point
+"Eagle Wharf Road, Hoxton",569,275,Starting Point
+"Duke Street Hill, London Bridge",498,368,Starting Point
+"Boston Place, Marylebone",471,56,Starting Point
+"Aldersgate Street, Barbican",389,258,Starting Point
+"Crosswall, Tower",383,283,Starting Point
+"Wenlock Road , Hoxton",373,139,Starting Point
+"Tanner Street, Bermondsey",364,88,Starting Point
+"Tooley Street, Bermondsey",353,280,Starting Point
+"Baylis Road, Waterloo",343,198,Starting Point
+"Finsbury Leisure Centre, St. Luke's",343,254,Starting Point
+"Waterloo Station 3, Waterloo",333,36,Starting Point
+"Allington Street, Victoria",324,168,Starting Point
+"Kennington Cross, Kennington",323,138,Starting Point
+"Bethnal Green Road, Shoreditch",299,153,Starting Point
+"Great Dover Street, The Borough",296,50,Starting Point
+"Pitfield Street Central, Hoxton",292,13,Starting Point
+"Endsleigh Gardens, Euston",292,125,Starting Point
+"Old Street Station, St. Luke's",290,277,Starting Point
+"Macclesfield Rd, St Lukes",283,50,Starting Point
+"Stamford Street, South Bank",277,150,Starting Point
+"William IV Street, Strand",275,226,Starting Point
+"Fanshaw Street, Hoxton",274,97,Starting Point
+"Strata, Elephant & Castle",273,68,Starting Point
+"Finsbury Circus, Liverpool Street",270,300,Ending Point
+"Bricklayers Arms, Borough",267,74,Starting Point
+"Tysoe Street, Clerkenwell",266,197,Starting Point
+"Hop Exchange, The Borough",265,541,Ending Point
+"Bath Street, St. Luke's",261,168,Starting Point
+"Ossulston Street, Somers Town",259,167,Starting Point
+"Columbia Road, Shoreditch",251,55,Starting Point
+"Sea Containers, South Bank",251,245,Starting Point
+"Berry Street, Clerkenwell",247,282,Ending Point
+"Blackfriars Station, St. Paul's",236,244,Ending Point
+"Curlew Street, Shad Thames",236,77,Starting Point
+"Murray Grove , Hoxton",235,39,Starting Point
+"Webber Street , Southwark",234,110,Starting Point
+"Ashley Place, Victoria",233,129,Starting Point
+"Page Street, Westminster",233,349,Ending Point
+"Walworth Square, Walworth",232,53,Starting Point
+"Percival Street, Finsbury",227,82,Starting Point
+"Milroy Walk, South Bank",225,147,Starting Point
+"Shoreditch High Street, Shoreditch",224,246,Ending Point
+"Wren Street, Holborn",222,68,Starting Point
+"Warren Street Station, Euston",218,205,Starting Point
+"Lambeth Palace Road, Waterloo",218,199,Starting Point
+"Baldwin Street, St. Luke's",217,208,Starting Point
+"Tower Wharf, Bermondsey",216,52,Starting Point
+"Harrington Square 1, Camden Town",216,109,Starting Point
+"Craven Street, Strand",215,151,Starting Point
+"Gloucester Street, Pimlico",215,48,Starting Point
+"Northington Street , Holborn",214,211,Starting Point
+"Bermondsey Street, Bermondsey",212,107,Starting Point
+"Birkenhead Street, King's Cross",212,48,Starting Point
+"Braham Street, Aldgate",210,305,Ending Point
+"Hatton Wall, Holborn",208,338,Ending Point
+"Graham Street, Angel",208,56,Starting Point
+"Leman Street, Aldgate",205,91,Starting Point
+"Sadlers Sports Centre, Finsbury",204,199,Starting Point
+"Moorfields, Moorgate",203,535,Ending Point
+"Park Road (Baker Street), The Regent's Park",201,57,Starting Point
+"Albany Street, The Regent's Park",201,36,Starting Point
+"Snowsfields, London Bridge",200,165,Starting Point
+"Belvedere Road 1, South Bank",199,33,Starting Point
+"Baker Street, Marylebone",198,145,Starting Point
+"Clerkenwell Green, Clerkenwell",198,182,Starting Point
+"Eccleston Place, Victoria",197,109,Starting Point
+"Windsor Terrace, Hoxton",197,64,Starting Point
+"Wellington Row, Bethnal Green",197,16,Starting Point
+"West Smithfield Rotunda, Farringdon",196,203,Ending Point
+"Howland Street, Fitzrovia",196,200,Ending Point
+"Swan Street, The Borough",195,108,Starting Point
+"St Mary's Hospital, Paddington",195,80,Starting Point
+"Lollard Street, Vauxhall",193,39,Starting Point
+"Chadwell Street, Angel",191,88,Starting Point
+"Guilford Street , Bloomsbury",190,179,Starting Point
+"Great Percy Street, Clerkenwell",189,56,Starting Point
+"Regency Street, Westminster",188,51,Starting Point
+"Warwick Row, Westminster",188,111,Starting Point
+"City Road, Angel",187,23,Starting Point
+"Dorset Square, Marylebone",187,76,Starting Point
+"Crawford Street, Marylebone",184,102,Starting Point
+"Gaywood  Street, Elephant & Castle",184,84,Starting Point
+"Doric Way , Somers Town",183,54,Starting Point
+"Empire Square, The Borough",182,89,Starting Point
+"Holborn Circus, Holborn",181,1154,Ending Point
+"St. James's Square, St. James's",179,484,Ending Point
+"New Cavendish Street, Marylebone",179,120,Starting Point
+"Theobald's Road , Holborn",178,225,Ending Point
+"Goswell Road (City Uni), Finsbury",177,65,Starting Point
+"Ontario Street, Elephant & Castle",175,106,Starting Point
+"New Kent Road, The Borough",175,61,Starting Point
+"Cloudesley Road, Angel",174,18,Starting Point
+"Cromer Street, Bloomsbury",172,49,Starting Point
+"Shouldham Street, Marylebone",170,62,Starting Point
+"Porchester Place, Paddington",169,68,Starting Point
+"St. John's Wood Church, The Regent's Park",169,16,Starting Point
+"Horseferry Road, Westminster",168,194,Ending Point
+"Beaumont Street, Marylebone",166,90,Starting Point
+"Red Lion Street, Holborn",166,368,Ending Point
+"Brushfield Street, Liverpool Street",166,384,Ending Point
+"Great Tower Street, Monument",163,153,Starting Point
+"New Inn Yard, Shoreditch",163,146,Starting Point
+"Rampayne Street, Pimlico",160,76,Starting Point
+"Cartwright Gardens , Bloomsbury",159,66,Starting Point
+"Roscoe Street, St. Luke's",158,84,Starting Point
+"George Place Mews, Marylebone",158,94,Starting Point
+"Margery Street, Clerkenwell",157,56,Starting Point
+"Tavistock Place, Bloomsbury",157,83,Starting Point
+"Belvedere Road 2, South Bank",157,60,Starting Point
+"Wellington Street , Strand",156,344,Ending Point
+"Cheapside, Bank",156,428,Ending Point
+"Old Quebec Street, Marylebone",155,135,Starting Point
+"Scala Street, Fitzrovia",154,208,Ending Point
+"Bell Lane, Liverpool Street",153,127,Starting Point
+"Taviton Street, Bloomsbury",153,350,Ending Point
+"Concert Hall Approach 2, South Bank",152,29,Starting Point
+"Drury Lane, Covent Garden",152,291,Ending Point
+"Long Lane , Bermondsey",152,103,Starting Point
+"Hampstead Road, Euston",152,119,Starting Point
+"Tyers Gate, Bermondsey",152,98,Starting Point
+"Hyde Park Corner, Hyde Park",151,160,Ending Point
+"Tate Modern, Bankside",150,110,Starting Point
+"Union Street, The Borough",149,139,Starting Point
+"Vincent Street, Pimlico",149,86,Starting Point
+"Hoxton Station, Hoxton",149,55,Starting Point
+"Whitehall Place, Strand",148,245,Ending Point
+"Edgware Road Station, Marylebone",146,32,Starting Point
+"Broadcasting House, Marylebone",146,145,Starting Point
+"Great Suffolk Street, The Borough",146,104,Starting Point
+"Lower Marsh, Waterloo",145,123,Starting Point
+"Hinde Street, Marylebone",144,146,Ending Point
+"Portland Place, Marylebone",143,215,Ending Point
+"Eversholt Street , Camden Town",142,28,Starting Point
+"Tower Gardens , Tower",141,128,Starting Point
+"Walnut Tree Walk, Vauxhall",141,39,Starting Point
+"Harrowby Street, Marylebone",140,35,Starting Point
+"Seymour Place, Marylebone",140,98,Starting Point
+"Warwick Square, Pimlico",140,36,Starting Point
+"Sun Street, Liverpool Street",138,143,Ending Point
+"LSBU (Borough Road), Elephant & Castle",138,31,Starting Point
+"Granby Street, Shoreditch",137,19,Starting Point
+"Queen Street 1, Bank",136,746,Ending Point
+"Drummond Street , Euston",135,21,Starting Point
+"Belgrave Road, Victoria",135,63,Starting Point
+"St. Chad's Street, King's Cross",134,59,Starting Point
+"Hatton Garden, Holborn",133,259,Ending Point
+"Nutford Place, Marylebone",131,71,Starting Point
+"Bell Street , Marylebone",130,52,Starting Point
+"Hampton Street, Walworth",130,44,Starting Point
+"Soho Square , Soho",130,646,Ending Point
+"Hardwick Street, Clerkenwell",127,84,Starting Point
+"Blackfriars Road, Southwark",126,228,Ending Point
+"Albert Gate, Hyde Park",126,92,Starting Point
+"Lambeth North Station, Waterloo",124,88,Starting Point
+"Russell Square Station, Bloomsbury",124,145,Ending Point
+"Bolsover Street, Fitzrovia",123,83,Starting Point
+"Bank of England Museum, Bank",123,99,Starting Point
+"Kennington Station, Kennington",122,33,Starting Point
+"Ampton Street , Clerkenwell",120,53,Starting Point
+"Queen Mother Sports Centre, Victoria",120,77,Starting Point
+"Sloane Avenue, Knightsbridge",120,62,Starting Point
+"Calshot Street , King's Cross",118,15,Starting Point
+"Paddington Street, Marylebone",118,75,Starting Point
+"Falkirk Street, Hoxton",118,69,Starting Point
+"Albert Embankment, Vauxhall",118,81,Starting Point
+"Black Prince Road, Vauxhall",116,53,Starting Point
+"Green Park Station, Mayfair",115,180,Ending Point
+"Rathbone Street, Fitzrovia",114,239,Ending Point
+"Waterloo Road, South Bank",114,41,Starting Point
+"Malet Street, Bloomsbury",113,618,Ending Point
+"Westminster University, Marylebone",113,50,Starting Point
+"St. John Street, Finsbury",113,105,Starting Point
+"New North Road 2, Hoxton",113,31,Starting Point
+"Euston Road, Euston",113,73,Starting Point
+"Rodney Road , Walworth",112,31,Starting Point
+"Vincent Square, Westminster",112,30,Starting Point
+"Red Lion Square, Holborn",112,144,Ending Point
+"Dickens Square, Borough",111,32,Starting Point
+"River Street , Clerkenwell",110,19,Starting Point
+"Bourne Street, Belgravia",110,30,Starting Point
+"Southwick Street, Paddington",109,12,Starting Point
+"Portman Square, Marylebone",108,97,Starting Point
+"Bunhill Row, Moorgate",108,224,Ending Point
+"Southwark Station 2, Southwark",108,158,Ending Point
+"Concert Hall Approach 1, South Bank",107,38,Starting Point
+"Good's Way, King's Cross",107,225,Ending Point
+"Wardour Street, Soho",107,227,Ending Point
+"Brunswick Square, Bloomsbury",107,180,Ending Point
+"Northdown Street, King's Cross",106,44,Starting Point
+"Euston Square Gardens, Euston",106,37,Starting Point
+"Tachbrook Street, Victoria",105,43,Starting Point
+"Cotton Garden Estate, Kennington",104,27,Starting Point
+"Claremont Square, Angel",104,35,Starting Point
+"Lambeth Road, Vauxhall",104,65,Starting Point
+"Killick Street, King's Cross",103,34,Starting Point
+"Smith Square, Westminster",103,135,Ending Point
+"Finsbury Library , Finsbury",103,171,Ending Point
+"Tallis Street, Temple",103,180,Ending Point
+"High Holborn , Covent Garden",102,164,Ending Point
+"Marylebone Lane, Marylebone",101,205,Ending Point
+"Butler Place, Westminster",100,119,Ending Point
+"Leonard Circus , Shoreditch",100,178,Ending Point
+"Waterloo Bridge, South Bank",100,51,Starting Point
+"Sancroft Street, Vauxhall",99,15,Starting Point
+"Wells Street, Fitzrovia",99,270,Ending Point
+"Elizabeth Bridge, Victoria",98,91,Starting Point
+"St. Katharine's Way, Tower",97,35,Starting Point
+"Palissy Street, Shoreditch",97,23,Starting Point
+"Ebury Bridge, Pimlico",96,36,Starting Point
+"Queen Street 2, Bank",95,195,Ending Point
+"Bury Place, Holborn",95,193,Ending Point
+"Harper Road, The Borough",94,57,Starting Point
+"Snow Hill, Farringdon",93,115,Ending Point
+"Millbank Tower, Pimlico",93,113,Ending Point
+"Coram Street, Bloomsbury",92,110,Ending Point
+"Westminster Pier, Westminster",92,198,Ending Point
+"Broadley Terrace, Marylebone",91,21,Starting Point
+"Queen Victoria Street, St. Paul's",91,212,Ending Point
+"Borough Road, Elephant & Castle",91,97,Ending Point
+"Fournier Street, Whitechapel",90,138,Ending Point
+"Pancras Road, King's Cross",90,57,Starting Point
+"Brandon Street, Walworth",89,8,Starting Point
+"Great Titchfield Street, Fitzrovia",89,205,Ending Point
+"Northumberland Avenue, Strand",89,200,Ending Point
+"Newgate Street , St. Paul's",88,290,Ending Point
+"Store Street, Bloomsbury",88,342,Ending Point
+"Little Argyll Street, West End",86,197,Ending Point
+"Eaton Square (South), Belgravia",86,22,Starting Point
+"The Tennis Courts, The Regent's Park",85,86,Ending Point
+"Gower Place , Euston",84,200,Ending Point
+"Brick Lane Market, Shoreditch",84,35,Starting Point
+"Geraldine Street, Elephant & Castle",84,16,Starting Point
+"Greenberry Street, St.John's Wood",83,6,Starting Point
+"Sail Street, Vauxhall",83,25,Starting Point
+"Green Street, Mayfair",83,85,Ending Point
+"Fire Brigade Pier, Vauxhall",82,117,Ending Point
+"Golden Lane, Barbican",82,146,Ending Point
+"Great Russell Street, Bloomsbury",81,189,Ending Point
+"Victory Place, Walworth",81,8,Starting Point
+"British Museum, Bloomsbury",80,237,Ending Point
+"Bankside Mix, Bankside",80,239,Ending Point
+"Moor Street, Soho",80,188,Ending Point
+"Worship Street, Shoreditch",80,405,Ending Point
+"Rochester Row, Westminster",79,58,Starting Point
+"Sedding Street, Sloane Square",77,53,Starting Point
+"Charlbert Street, St. John's Wood",75,8,Starting Point
+"Cadogan Place, Knightsbridge",74,55,Starting Point
+"Holy Trinity Brompton, Knightsbridge",72,86,Ending Point
+"Monument Street, Monument",72,82,Ending Point
+"Howick Place, Westminster",71,103,Ending Point
+"Jewry Street, Aldgate",71,64,Starting Point
+"Storey's Gate, Westminster",70,231,Ending Point
+"Barbican Centre, Barbican",70,203,Ending Point
+"Harriet Street, Knightsbridge",70,82,Ending Point
+"Risinghill Street, Angel",70,14,Starting Point
+"Torrens Street, Angel",69,32,Starting Point
+"Charlotte Street, Fitzrovia",68,128,Ending Point
+"Bayley Street , Bloomsbury",68,347,Ending Point
+"Broadwick Street, Soho",68,223,Ending Point
+"Strand, Strand",67,405,Ending Point
+"Seville Street, Knightsbridge",67,100,Ending Point
+"Pont Street, Knightsbridge",67,64,Starting Point
+"Guildhouse Street, Victoria",66,29,Starting Point
+"Tavistock Street, Covent Garden",66,313,Ending Point
+"Mallory Street, Marylebone",65,4,Starting Point
+"Buxton Street 1, Shoreditch",64,10,Starting Point
+"Royal Avenue 2, Chelsea",64,28,Starting Point
+"Golden Square, Soho",64,102,Ending Point
+"North Audley Street, Mayfair",64,145,Ending Point
+"Foley Street, Fitzrovia",64,328,Ending Point
+"Southampton Street, Strand",63,74,Ending Point
+"Houndsditch, Aldgate",63,86,Ending Point
+"Cadogan Gardens, Chelsea",62,12,Starting Point
+"Borough High Street, The Borough",61,71,Ending Point
+"George Street, Marylebone",60,179,Ending Point
+"Longford Street, The Regent's Park",59,29,Starting Point
+"Abbey Orchard Street, Westminster",58,223,Ending Point
+"Somerset House, Strand",58,166,Ending Point
+"Earnshaw Street , Covent Garden",58,206,Ending Point
+"Central House, Aldgate",57,49,Starting Point
+"Wellington Arch, Hyde Park",57,135,Ending Point
+"Museum of London, Barbican",55,408,Ending Point
+"Temple Gardens, Temple",55,104,Ending Point
+"New Fetter Lane, Holborn",54,132,Ending Point
+"Finsbury Square , Moorgate",54,242,Ending Point
+"Fashion Street, Whitechapel",54,102,Ending Point
+"Lavington Street, Bankside",54,166,Ending Point
+"Bouverie Street, Temple",54,266,Ending Point
+"Belgrave Square, Belgravia",53,61,Ending Point
+"Hoxton Street, Hoxton",53,55,Ending Point
+"Pall Mall East, West End",52,98,Ending Point
+"Archbishop's Park, Waterloo",52,49,Starting Point
+"Chapel Place, Marylebone",52,155,Ending Point
+"Waterloo Place, St. James's",51,143,Ending Point
+"Greycoat Street , Westminster",51,88,Ending Point
+"Bedford Way, Bloomsbury",51,157,Ending Point
+"Montpelier Street, Knightsbridge",50,48,Starting Point
+"Denyer Street, Knightsbridge",49,27,Starting Point
+"Sackville Street, Mayfair",49,110,Ending Point
+"New Globe Walk, Bankside",47,110,Ending Point
+"Grosvenor Square, Mayfair",47,78,Ending Point
+"Frith Street, Soho",45,186,Ending Point
+"Southwark Street, Bankside",44,99,Ending Point
+"Abingdon Green, Westminster",44,100,Ending Point
+"Curzon Street, Mayfair",44,88,Ending Point
+"Buckingham Gate, Westminster",43,80,Ending Point
+"Farringdon Lane, Clerkenwell",43,103,Ending Point
+"Poured Lines, Bankside",43,55,Ending Point
+"Kings Gate House, Westminster",42,104,Ending Point
+"Commercial Street, Shoreditch",40,57,Ending Point
+"Park Lane , Hyde Park",40,68,Ending Point
+"Crinan Street, King's Cross",40,91,Ending Point
+"Fore Street, Guildhall",40,90,Ending Point
+"Triangle Car Park, Hyde Park",39,25,Starting Point
+"Southampton Place, Holborn",39,152,Ending Point
+"Fore Street Avenue, Guildhall",37,94,Ending Point
+"St. Bride Street, Holborn",36,205,Ending Point
+"King Edward Street, St Pauls",36,65,Ending Point
+"St. Mary Axe, Aldgate",35,58,Ending Point
+"Pindar Street, Liverpool Street",34,118,Ending Point
+"Clifton Street, Shoreditch",34,183,Ending Point
+"Farringdon Street, Holborn",34,104,Ending Point
+"Christopher Street, Liverpool Street",34,205,Ending Point
+"Breams Buildings, Holborn",33,159,Ending Point
+"King Edward Walk, Waterloo",33,66,Ending Point
+"Norton Folgate, Liverpool Street",32,97,Ending Point
+"Houghton Street, Strand",31,224,Ending Point
+"Westminster Bridge Road, Elephant & Castle",31,17,Starting Point
+"Harris Academy, Bermondsey",30,3,Starting Point
+"Royal Avenue 1, Chelsea",29,17,Starting Point
+"Clarges Street, Mayfair",29,67,Ending Point
+"Godliman Street, St. Paul's",29,146,Ending Point
+"Wood Street, Guildhall",29,80,Ending Point
+"Park Street, Bankside",27,51,Ending Point
+"Kingsway, Covent Garden",27,146,Ending Point
+"Panton Street, West End",26,164,Ending Point
+"St. George Street, Mayfair",23,122,Ending Point
+"Charles II Street, West End",22,114,Ending Point
+"Kingsway Southbound, Strand",22,459,Ending Point
+"Embankment (Savoy), Strand",22,118,Ending Point
+"Lincoln's Inn Fields, Holborn",20,360,Ending Point
+"Grafton Street, Mayfair",20,106,Ending Point
+"Stanhope Gate, Mayfair",20,81,Ending Point
+"The Guildhall, Guildhall",19,77,Ending Point
+"South Audley Street, Mayfair",19,90,Ending Point
+"Woodstock Street, Mayfair",18,137,Ending Point
+"Bruton Street, Mayfair",17,84,Ending Point
+"Park Lane, Mayfair",17,108,Ending Point
+"Newton Street, Covent Garden",16,179,Ending Point
+"Carey Street, Holborn",16,257,Ending Point
+"Millennium Hotel, Mayfair",15,164,Ending Point
+"Farm Street, Mayfair",12,47,Ending Point
+"Grosvenor Crescent, Belgravia",11,14,Ending Point
+"Knightsbridge, Hyde Park",10,15,Ending Point
+"St. Martin's Street, West End",9,102,Ending Point
+"Lower Thames Street, Monument",8,81,Ending Point
+"Clifford Street, Mayfair",8,91,Ending Point
+"Victoria & Albert Museum, South Kensington",7,149,Ending Point
+"Upper Grosvenor Street, Mayfair",4,21,Ending Point
+"Crimscott Street, Bermondsey",4,1,Starting Point
+"Chicheley Street, South Bank",2,3,Ending Point
+"Portugal Street, Holborn",1,351,Ending Point
+"Arundel Street, Temple",1,4,Ending Point
